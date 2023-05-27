@@ -1,7 +1,7 @@
 import UIKit
 
 let firstName = "Steves"
-var secondName: String? 
+var secondName: String? = "Jobs"
 
 print("\(firstName) \(secondName ?? "Wozniak")")
 
